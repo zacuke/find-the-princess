@@ -10,4 +10,5 @@ For a game board with 5 spaces: 2 -> 3 -> 4 then 4 -> -3 -> 2 and repeat
 
 # Other resources:
 https://mindyourdecisions.com/blog/2017/07/09/can-you-solve-the-hiding-cat-puzzle-tech-interview-question/
+
 https://github.com/SirDrone/Hiding_Cat_Puzzle
